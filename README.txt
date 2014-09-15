@@ -42,3 +42,11 @@ The ```scale-horizon``` module currently does the following customizations:
 
 * Remove the ```change password``` panel (we manage users through a different system)
 
+
+Build
+=====
+
+To build a distribution source package, run:::
+
+    python setup.py sdist
+
